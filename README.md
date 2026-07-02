@@ -10,6 +10,11 @@ https://iris-demo-gjle.onrender.com/
 
 ---
 
+## 📌 Screenshot
+
+<img width="590" height="886" alt="image" src="https://github.com/user-attachments/assets/c4d0cfa6-b60d-45df-94bd-5690c5f2b9ad" />
+
+
 ## 📌 Project Overview
 
 This project demonstrates how to deploy a Machine Learning model using the Flask web framework.
